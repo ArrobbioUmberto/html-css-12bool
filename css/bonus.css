@@ -1,0 +1,15 @@
+/* BOOLEAN  */
+
+
+.blu{
+    background-color: #011533;
+}
+.green{
+    background-color: #4de165;
+}
+.white{
+    background-color: white;
+}
+.boolean [class^="col"]{
+    padding: 30px;
+}
